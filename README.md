@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on and learning:
+  - Network Embedding
+  - Recommender System
+- :trophy: Competition
+  - 科大讯飞移动广告反欺诈算法挑战赛 Top2
+  - 图灵联邦视频点击预测大赛 Top3
+  - KDD Cup 2020 Challenges for Modern E-Commerce Platform: Debiasing Top13
