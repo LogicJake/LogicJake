@@ -20,5 +20,5 @@ Here are some ideas to get you started:
   - Recommender System
 - :trophy: Competition
   - 科大讯飞移动广告反欺诈算法挑战赛 Top2
-  - 图灵联邦视频点击预测大赛 Top3
-  - KDD Cup 2020 Challenges for Modern E-Commerce Platform: Debiasing Top13
+  - 图灵联邦视频点击预测大赛 Top3 [Code](https://github.com/LogicJake/tuling-video-click-top3)
+  - KDD Cup 2020 Challenges for Modern E-Commerce Platform: Debiasing Top13 [Code](https://github.com/LogicJake/2020_KDD_Debiasing_TOP13)
