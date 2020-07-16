@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://visitor-badge.glitch.me/badge?page_id=LogicJake.LogicJake) ![](http://hits.dwyl.com/LogicJake/LogicJake.svg)
+![](https://visitor-badge.glitch.me/badge?page_id=LogicJake.LogicJake) ![](http://hits.dwyl.com/LogicJake/LogicJake.svg) ![](https://raw.githubusercontent.com/LogicJake/github-statistics-badges/master/svg/LogicJake/star.svg)
 
 - 🔭 I’m currently working on and learning:
   - Network Embedding
