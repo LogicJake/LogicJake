@@ -2,8 +2,6 @@
 <img align="right" src="https://github-readme-stats-teal.vercel.app/api?username=LogicJake&show_icons=true&hide_border=true">
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=LogicJake.LogicJake) ![](http://hits.dwyl.com/LogicJake/LogicJake.svg)
-
 - 🔭 I’m currently working on and learning:
   - Network Embedding
   - Recommender System
