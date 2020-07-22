@@ -12,8 +12,8 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=LogicJake&theme=radical&hide_langs_below=2" />
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=LogicJake&theme=tokyonight&hide_langs_below=2" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=LogicJake&show_icons=true&theme=radical&line_height=27" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=LogicJake&show_icons=true&theme=tokyonight&line_height=27" alt="Anurag's github stats" />
 </a>
