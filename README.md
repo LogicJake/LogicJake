@@ -1,6 +1,5 @@
-<a href="#">
-<img align="right" src="https://github-readme-stats-teal.vercel.app/api?username=LogicJake&show_icons=true&hide_border=true">
-</a>
+
+
 
 - 🔭 I’m currently working on and learning:
   - Network Embedding
@@ -13,3 +12,11 @@
   - MLCompetitionHub: 机器学习竞赛信息聚合(Machine learning competition information aggregation) [Code](https://github.com/LogicJake/MLCompetitionHub) [Homepage](https://www.logicjake.xyz/MLCompetitionHub/)
   - WebMonitor: 实时监控网页变化并发送通知
 (Real-time web page monitoring and change notifications) [Code](https://github.com/LogicJake/WebMonitor) [Homepage](https://www.logicjake.xyz/WebMonitor)
+
+<a href="#">
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=LogicJake&hide_langs_below=1" />
+</a>
+
+<a href="#">
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=LogicJake&show_icons=true&hide_border=true&line_height=27">
+</a>
