@@ -1,7 +1,4 @@
-<a href="https://github.com/LogicJake">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="right" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=LogicJake&theme=tokyonight&hide_langs_below=2" />
-</a>
+
 
 🔭 I’m currently working on and learning:
   - Network Embedding
@@ -18,6 +15,10 @@
 (Real-time web page monitoring and change notifications) [Code](https://github.com/LogicJake/WebMonitor) [Homepage](https://www.logicjake.xyz/WebMonitor)
 
 
+<a href="https://github.com/LogicJake">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=LogicJake&theme=tokyonight&hide_langs_below=2" />
+</a>
 
 <a href="https://github.com/LogicJake">
   <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=LogicJake&show_icons=true&theme=tokyonight&line_height=27" alt="Anurag's github stats" />
