@@ -17,7 +17,7 @@
 
 <a href="https://github.com/LogicJake">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=LogicJake&theme=tokyonight&hide_langs_below=2" />
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=LogicJake&theme=tokyonight&layout=compact" />
 </a>
 
 <a href="https://github.com/LogicJake">
