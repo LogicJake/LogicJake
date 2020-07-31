@@ -7,7 +7,8 @@
   <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=LogicJake&layout=compact" />
 </a>
 
-
+<br>
+<br>
 
 🔭 I’m currently working on and learning:
   - Network Embedding
