@@ -1,7 +1,11 @@
 
 <a href="https://github.com/LogicJake">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="right" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=LogicJake&theme=tokyonight&layout=compact" />
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=LogicJake&theme=tokyonight&layout=compact" />
+</a>
+
+<a href="https://github.com/LogicJake">
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=LogicJake&show_icons=true&theme=tokyonight&include_all_commits=True&hide=contribs" alt="Anurag's github stats" />
 </a>
 
 🔭 I’m currently working on and learning:
@@ -19,9 +23,7 @@
   - WebMonitor: 实时监控网页变化并发送通知
 (Real-time web page monitoring and change notifications) [Code](https://github.com/LogicJake/WebMonitor) [Homepage](https://www.logicjake.xyz/WebMonitor)
 
-<a href="https://github.com/LogicJake">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=LogicJake&show_icons=true&theme=tokyonight&include_all_commits=True" alt="Anurag's github stats" />
-</a>
+
 
 <a href="https://github.com/LogicJake/2020_KDD_Debiasing_TOP13">
   <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=LogicJake&repo=2020_KDD_Debiasing_TOP13&theme=tokyonight" />
