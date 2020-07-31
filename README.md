@@ -1,10 +1,10 @@
 <a href="https://github.com/LogicJake">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=LogicJake&show_icons=true&theme=tokyonight&include_all_commits=True&hide=contribs" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=LogicJake&show_icons=truet&include_all_commits=True&hide=contribs" alt="Anurag's github stats" />
 </a>
 
 <a href="https://github.com/LogicJake">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=LogicJake&theme=tokyonight&layout=compact" />
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=LogicJake&layout=compact" />
 </a>
 
 
