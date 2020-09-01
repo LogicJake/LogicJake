@@ -1,7 +1,5 @@
 <p align="center"> 
- <h1>YOU ARE</h1>
- <img src="https://profile-counter.glitch.me/LogicJake/count.svg"/> th
- <h1>VISITOR</h1>
+ <img src="https://profile-counter.glitch.me/LogicJake/count.svg"/>
 </p>
 
 <a href="https://github.com/LogicJake">
