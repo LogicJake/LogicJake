@@ -32,9 +32,17 @@
 
 
 <a href="https://github.com/LogicJake/2020_KDD_Debiasing_TOP13">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=LogicJake&repo=2020_KDD_Debiasing_TOP13&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=LogicJake&repo=2020_KDD_Debiasing_TOP13&theme=" />
 </a>
 
 <a href="https://github.com/LogicJake/Tencent_Ads_Algo_2020_TOP12">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=LogicJake&repo=Tencent_Ads_Algo_2020_TOP12&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=LogicJake&repo=Tencent_Ads_Algo_2020_TOP12&theme=" />
+</a>
+
+<a href="https://github.com/LogicJake/2020-yizhifu-credit-risk-user-identification-Top2">
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=LogicJake&repo=2020-yizhifu-credit-risk-user-identification-Top2&theme=" />
+</a>
+
+<a href="https://github.com/LogicJake/2020-pingan-digital">
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=LogicJake&repo=2020-pingan-digital&theme=" />
 </a>
