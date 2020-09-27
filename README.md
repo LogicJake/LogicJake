@@ -23,6 +23,7 @@
   - 图灵联邦视频点击预测大赛 Top3 [Code](https://github.com/LogicJake/tuling-video-click-top3)
   - KDD Cup 2020 Challenges for Modern E-Commerce Platform: Debiasing Top13 [Code](https://github.com/LogicJake/2020_KDD_Debiasing_TOP13)
   - 2020腾讯广告算法大赛 Top12 [Code](https://github.com/LogicJake/Tencent_Ads_Algo_2020_TOP12)
+  - 第二届翼支付杯大数据建模大赛-信用风险用户识别 Solo Top2 [Code](https://github.com/LogicJake/2020-yizhifu-credit-risk-user-identification-Top2)
 
 :wrench: Project
   - MLCompetitionHub: 机器学习竞赛信息聚合(Machine learning competition information aggregation) [Code](https://github.com/LogicJake/MLCompetitionHub) [Homepage](https://www.logicjake.xyz/MLCompetitionHub/)
