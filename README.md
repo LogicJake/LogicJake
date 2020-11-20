@@ -43,6 +43,6 @@
   <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=LogicJake&repo=2020-yizhifu-credit-risk-user-identification-Top2&theme=" />
 </a>
 
-<a href="https://github.com/LogicJake/2020-pingan-digital">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=LogicJake&repo=2020-pingan-digital&theme=" />
+<a href="https://github.com/LogicJake/tuling-video-click-top3">
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=LogicJake&repo=tuling-video-click-top3&theme=" />
 </a>
