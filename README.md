@@ -23,7 +23,9 @@
   - KDD Cup 2020 Challenges for Modern E-Commerce Platform: Debiasing Top13 [Code](https://github.com/LogicJake/2020_KDD_Debiasing_TOP13)
   - 2020腾讯广告算法大赛 Top12 [Code](https://github.com/LogicJake/Tencent_Ads_Algo_2020_TOP12)
   - 第二届翼支付杯大数据建模大赛-信用风险用户识别 Solo Top2 [Code](https://github.com/LogicJake/2020-yizhifu-credit-risk-user-identification-Top2)
-
+  - 零基础入门推荐系统 - 新闻推荐 Top2 [Code](https://github.com/LogicJake/tianchi-news-recommendation)
+  - Kaggle Riiid! Answer Correctness Prediction 前2% [Code](https://github.com/jackhuntcn/Kaggle_Riiid_74th_LGBM)
+  
 :wrench: Project
   - MLCompetitionHub: 机器学习竞赛信息聚合(Machine learning competition information aggregation) [Code](https://github.com/LogicJake/MLCompetitionHub) [Homepage](https://www.logicjake.xyz/MLCompetitionHub/)
   - WebMonitor: 实时监控网页变化并发送通知
