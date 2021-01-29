@@ -31,18 +31,26 @@
 
 
 
-<a href="https://github.com/LogicJake/2020_KDD_Debiasing_TOP13">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=LogicJake&repo=2020_KDD_Debiasing_TOP13&theme=" />
+<a href="https://github.com/LogicJake/tianchi-loan-default-prediction-top11">
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=LogicJake&repo=tianchi-loan-default-prediction-top11&theme=" />
 </a>
 
-<a href="https://github.com/LogicJake/Tencent_Ads_Algo_2020_TOP12">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=LogicJake&repo=Tencent_Ads_Algo_2020_TOP12&theme=" />
-</a>
-
-<a href="https://github.com/LogicJake/2020-yizhifu-credit-risk-user-identification-Top2">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=LogicJake&repo=2020-yizhifu-credit-risk-user-identification-Top2&theme=" />
+<a href="https://github.com/LogicJake/2020-pingan-digital">
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=LogicJake&repo=2020-pingan-digital&theme=" />
 </a>
 
 <a href="https://github.com/LogicJake/tuling-video-click-top3">
   <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=LogicJake&repo=tuling-video-click-top3&theme=" />
+</a>
+
+<a href="https://github.com/LogicJake/tianyicup-education">
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=LogicJake&repo=tianyicup-education&theme=" />
+</a>
+
+<a href="https://github.com/LogicJake/tianchi-news-recommendation">
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=LogicJake&repo=tianchi-news-recommendation&theme=" />
+</a>
+
+<a href="https://github.com/LogicJake/2020-gslab-ml-top4">
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=LogicJake&repo=2020-gslab-ml-top4&theme=" />
 </a>
