@@ -56,3 +56,7 @@
 <a href="https://github.com/LogicJake/2020-gslab-ml-top4">
   <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=LogicJake&repo=2020-gslab-ml-top4&theme=" />
 </a>
+
+<a href="https://github.com/LogicJake/2020-Xiamen-International-Bank-Financial-Cup">
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=LogicJake&repo=2020-Xiamen-International-Bank-Financial-Cup&theme=" />
+</a>
