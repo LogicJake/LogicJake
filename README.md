@@ -32,7 +32,9 @@
   - WebMonitor: 实时监控网页变化并发送通知
 (Real-time web page monitoring and change notifications) [Code](https://github.com/LogicJake/WebMonitor) [Homepage](https://www.logicjake.xyz/WebMonitor)
 
-
+<a href="https://github.com/LogicJake/yidianzixun-ctr-top1">
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=LogicJake&repo=yidianzixun-ctr-top1&theme=" />
+</a>
 
 <a href="https://github.com/LogicJake/tianchi-loan-default-prediction-top11">
   <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=LogicJake&repo=tianchi-loan-default-prediction-top11&theme=" />
