@@ -25,7 +25,8 @@
   - 第二届翼支付杯大数据建模大赛-信用风险用户识别 Solo Top2 [Code](https://github.com/LogicJake/2020-yizhifu-credit-risk-user-identification-Top2)
   - 零基础入门推荐系统 - 新闻推荐 Top2 [Code](https://github.com/LogicJake/tianchi-news-recommendation)
   - Kaggle Riiid! Answer Correctness Prediction 前2% [Code](https://github.com/jackhuntcn/Kaggle_Riiid_74th_LGBM)
-  
+  - 一点资讯技术编程大赛CTR赛道 Top1 [Code](https://github.com/LogicJake/yidianzixun-ctr-top1)
+    
 :wrench: Project
   - MLCompetitionHub: 机器学习竞赛信息聚合(Machine learning competition information aggregation) [Code](https://github.com/LogicJake/MLCompetitionHub) [Homepage](https://www.logicjake.xyz/MLCompetitionHub/)
   - WebMonitor: 实时监控网页变化并发送通知
