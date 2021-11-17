@@ -6,10 +6,6 @@
   <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=LogicJake&show_icons=truet&include_all_commits=True&hide=contribs"/>
 </a>
 
-<a href="https://github.com/LogicJake">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=LogicJake&layout=compact" />
-</a>
-
 <br>
 <br>
 
