@@ -24,9 +24,9 @@
   - 一点资讯技术编程大赛CTR赛道 Top1 [Code](https://github.com/LogicJake/yidianzixun-ctr-top1)
     
 :wrench: Project
-  - MLCompetitionHub: 机器学习竞赛信息聚合(Machine learning competition information aggregation) [Code](https://github.com/LogicJake/MLCompetitionHub) [Homepage](https://www.logicjake.xyz/MLCompetitionHub/)
+  - MLCompetitionHub: 机器学习竞赛信息聚合(Machine learning competition information aggregation) [Code](https://github.com/LogicJake/MLCompetitionHub) [Homepage](https://logicjake.github.io/MLCompetitionHub/)
   - WebMonitor: 实时监控网页变化并发送通知
-(Real-time web page monitoring and change notifications) [Code](https://github.com/LogicJake/WebMonitor) [Homepage](https://www.logicjake.xyz/WebMonitor)
+(Real-time web page monitoring and change notifications) [Code](https://github.com/LogicJake/WebMonitor) [Homepage](https://logicjake.github.io/WebMonitor)
 
 <a href="https://github.com/LogicJake/yidianzixun-ctr-top1">
   <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=LogicJake&repo=yidianzixun-ctr-top1&theme=" />
