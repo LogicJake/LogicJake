@@ -2,13 +2,6 @@
  <img src="https://profile-counter.glitch.me/LogicJake/count.svg"/>
 </p>
 
-<a href="https://github.com/LogicJake">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=LogicJake&show_icons=truet&include_all_commits=True&hide=contribs"/>
-</a>
-
-<br>
-<br>
-
 🔭 I’m currently working on and learning:
   - Network Embedding
   - Recommender System
@@ -27,35 +20,3 @@
   - MLCompetitionHub: 机器学习竞赛信息聚合(Machine learning competition information aggregation) [Code](https://github.com/LogicJake/MLCompetitionHub) [Homepage](https://logicjake.github.io/MLCompetitionHub/)
   - WebMonitor: 实时监控网页变化并发送通知
 (Real-time web page monitoring and change notifications) [Code](https://github.com/LogicJake/WebMonitor) [Homepage](https://logicjake.github.io/WebMonitor)
-
-<a href="https://github.com/LogicJake/yidianzixun-ctr-top1">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=LogicJake&repo=yidianzixun-ctr-top1&theme=" />
-</a>
-
-<a href="https://github.com/LogicJake/tianchi-loan-default-prediction-top11">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=LogicJake&repo=tianchi-loan-default-prediction-top11&theme=" />
-</a>
-
-<a href="https://github.com/LogicJake/2020-pingan-digital">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=LogicJake&repo=2020-pingan-digital&theme=" />
-</a>
-
-<a href="https://github.com/LogicJake/tuling-video-click-top3">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=LogicJake&repo=tuling-video-click-top3&theme=" />
-</a>
-
-<a href="https://github.com/LogicJake/tianyicup-education">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=LogicJake&repo=tianyicup-education&theme=" />
-</a>
-
-<a href="https://github.com/LogicJake/tianchi-news-recommendation">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=LogicJake&repo=tianchi-news-recommendation&theme=" />
-</a>
-
-<a href="https://github.com/LogicJake/2020-gslab-ml-top4">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=LogicJake&repo=2020-gslab-ml-top4&theme=" />
-</a>
-
-<a href="https://github.com/LogicJake/2020-Xiamen-International-Bank-Financial-Cup">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/pin/?username=LogicJake&repo=2020-Xiamen-International-Bank-Financial-Cup&theme=" />
-</a>
